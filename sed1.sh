@@ -1,1 +1,1 @@
-sed -e s/the/this/
+sed -e 's/\bthe\b/this/g'
